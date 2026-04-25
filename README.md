@@ -1,1 +1,1 @@
-https://github.com/ksshik/posmotri-v-okno
+https://github.com/ksshik/posmotri-v-okno-ad
